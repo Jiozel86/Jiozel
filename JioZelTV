@@ -4,6 +4,1872 @@ https://www.dropbox.com/scl/fi/ctu8zaqyalr1yai61v2k3/Picsart_24-05-29_23-15-24-0
 #EXTINF:-1 group-title="INFO❕" tvg-logo="https://www.englishcafe.co.id/wp-content/uploads/2013/05/GratisFreigestellt.png", SILAHKAN DI PLAY
 https://www.dropbox.com/scl/fi/dhjsho9nhluguextk3y6h/Videoleap_2024_05_31_11_25_56_811.mp4?rlkey=o524u3y8itb4h0dqvbh8v1lm0&dl=1
 
+##### HBO VOD
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041482X0-portrait.jpg",Taking On Taylor Swift 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=efb08a878fd59dc395ee05d53e5d9b9b:f0f1923ca07a8ddf9666b6f474ea5bc4
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/654499f2d940521074e78b79_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041243X0-portrait.jpg",The Nun Ii 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4063e8388256eeabd2f4efdae7aedd3:12843781a238285c811dcc5a3715e344
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6537627dd940521074e64adf_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041162X0-portrait.jpg",Meg 2: The Trench 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7244ed7a5678d52130672c4b3cf514e:342e55749e9ef5b57c9371fc4c008132
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fee5add940521074e10087_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040975X0-portrait.jpg",The Flash 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3828dfa474ecbb86ac6e3a9b370abdde:05f5c24805c2fab927d96575bdc20237
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64c3794dd940521074db6e41_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040334X0-portrait.jpg",Reality 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b181fb3df6f5577055086173921b597:98c1ea4a4b2d95116eb627df374033fe
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/646fee3ed940521074d39a27_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041269X0-portrait.jpg",Land Of Gold 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a4d6c73b26cae6fd6f1fc0ad72a5ad2:c30d41201d7e999d1fedc9d187a47087
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6513e9cbd940521074e2f8f0_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040899X0-portrait.jpg",Evil Dead Rise 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9221c8e67c756f094f45420242d8560e:987cb364121b8aac88d6d33544c9526b
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/648828a5d940521074d5dcf8_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040878X0-portrait.jpg",Dungeons & Dragons: Honor Among Thieves 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c9256c2319bee1155eb1ab05ddb2848c:e9940878b41a3be09407bf86111fc3c1
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbd7dcd940521074dc3623_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040442X0-portrait.jpg",Shazam! Fury Of The Gods 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=170bb91139d6de563658bb4902db9492:fdbd71bb5164009ba1f924bb91bbc521
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64532a79d940521074d0e71b_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040640X0-portrait.jpg",Scream Vi 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=671a3fc7b55dcb56f8c66ed8eaad141e:962953b30ed281c5b40eca0078466df0
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65012e17d940521074e137bd_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040423X0-portrait.jpg",Khun Pan 3 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e080e8d17a75b68c171bafed250c617e:e2666c16aaa10cc855a580ff0d39a633
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa6825d940521074d91179_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040436X0-portrait.jpg",The Weeknd: Live At Sofi Stadium 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=626e2f639f995fb4622bf4cc23fca4e5:c51ea0657317aa01e5513c601b18b8ed
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64564331d940521074d1329a_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040443X0-portrait.jpg",War Zone: Bear Grylls Meets President Zelenskyy 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8236b774c756a2b9b2c791a970ab7305:3edf7f7049b0fb5ebbb1ed1f77d315ac
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6453259bd940521074d0e6a3_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040333X0-portrait.jpg",Magic Mike'S Last Dance 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=65be40852d44ba852db6264d66a79cd7:54a86402886d6e0d45d5e563edf08395
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6470b5b4d940521074d3ad30_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040285X0-portrait.jpg",All That Breathes 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3da7954f870d56992b55af368f401976:7fad2d7f2c64a81bf46883e1eea7e66a
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6406dabad940521074c9c1ce_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040517X0-portrait.jpg",80 For Brady 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1aff956d4b7a35b96796a924be279fd3:921a9e776c3bc895852f97c4d7dd5fff
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64ddf8a9d940521074dde8cb_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040265X0-portrait.jpg",Mummies 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c446b9fe09cf1153a0143b09485e2170:bcd75dc517b3678ee3f634ca2cbf3697
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/640687cad940521074c9b9f9_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040233X0-portrait.jpg",House Party 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5eca074d2c6e430e4fee5544973ecca:c9863fba861904a40b2b9285e83105ea
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63f5fd48d940521074c8292d_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039083X0-portrait.jpg",The Offering 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=af7b6b433d0063a06f61c525b1e69a92:7f827a202d6b476d2dc451836381cf0b
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63f30896d940521074c7e1e3_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041291X0-portrait.jpg",The Ringleader: The Case Of The Bling Ring 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6979fdf856afc2c97816f2070b1bee97:50062d58cd80a5f5b377fa0037d618de
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6516a967d940521074e33b6b_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040437X1-portrait.jpg",Babylon 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4dc6d1e91bc36abd53dd21f9fce3fa25:452a8841eedbc4ac17597fb7010f79fd
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa69ead940521074d911a6_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040904X0-portrait.jpg",M3Gan 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=86576a103454a1c26c739a2ea8b2b38b:9e86fb8545f9c1aa555c7c9bee027471
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65012f6fd940521074e137e1_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039482X0-portrait.jpg",Lizzo: Live In Concert 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e2b0e16d670a1c1960f3192878c27d1:1d717d6394c6b7df61df8cebf76f010d
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64321e38d940521074cdccb7_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040408X0-portrait.jpg",Puss In Boots: The Last Wish 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=153abc2316da6cbac563da3385fb52a4:d2c1db89ec43fd5bb8ce047a10847fde
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa5d9fd940521074d9106a_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040194X0-portrait.jpg",Tom And Jerry: Snowman'S Land 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c147967dee0910abb50cd6e4f7475f5e:28f4f1307372b4ff53ff4b9f91ce3951
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455beb3d940521074d12528_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039450X0-portrait.jpg",Love, Lizzo 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=adea58414fa6fea36decd84397760eb1:70e145eb62725108e9e1f6f5526364e9
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64321955d940521074cdcc2e_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040515X0-portrait.jpg",The Fabelmans 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c16c1647d9406c6f84f06f0fbeb04a2b:2a1edcd261957c85236cd360b66ea0e7
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64c37444d940521074db6dc6_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039274X0-portrait.jpg",The Travelog: Hyoyeon & Sunny In Qatar 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6dffbce17cef9345eaebdaf245f155b0:5dc68edcaf3aec5489b2562489e9327d
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63914ccad940521074beb2da_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040406X0-portrait.jpg",She Said 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b7eda64587b2bdd5393e1187c53b4b1:b76273f23b2ba6a47385211df7e37b6e
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb2e8bd940521074e0a73f_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040234X0-portrait.jpg",Crawlspace 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c46834ddec75f520e27d477057c5bfee:f652de7056eebde27b4e998d88c83b0b
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6482be0ad940521074d55b26_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039469X0-portrait.jpg",2022 Rock & Roll Hall Of Fame Induction Ceremony 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=16a7ddae7b5343b83832f9eabbd46178:eaadb5b4b081a314c1013061cf94c681
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63be360ad940521074c2ea5f_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040320X0-portrait.jpg",Tad, The Lost Explorer And The Emerald Tablet 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbf2540c4f9505519d7d992ddeade8de:b11f98827b7c2b0a291fd688ad50bbb1
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbb59ed940521074dc32ab_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039197X0-portrait.jpg",The Lair 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee66635a6ab60195e78c5b2cbac7c986:df89256f8a2bd78c792ee108b05221b8
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63ca3be2d940521074c40b5d_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040413X0-portrait.jpg",Armageddon Time 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cd8ae4e2c4db5317cd5e7ebeeb4305a9:f5ce926a8a7c58deb5f60a5a83e0de5a
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbb2b5d940521074dc325f_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040516X0-portrait.jpg",T�r 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d18ed6fa307c3285eb093a4c854c18b:892ff2ebe19f48990b4b27f0b9578471
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbbaffd940521074dc3343_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040639X0-portrait.jpg",A Tree Of Life 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=44df2bc4dfb4c6a6068f908684df0ffe:42e4b8f3f210f1ac5d4458af9f9edc61
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/650e60e3d940521074e27517_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040409X0-portrait.jpg",Ticket To Paradise 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=30586a8d9386cbacde6411e5346017e8:14394fbffddb588c47b96eec2937f3f8
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6482be3ad940521074d55b2f_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040519X0-portrait.jpg",Dangerous Game: The Legacy Murders 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f39dbc17be87f3447a300c716f6c97ac:702d027317a389e16510f5e6ab85fe86
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb2699d940521074e0a66d_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040056X0-portrait.jpg",Batman And Superman: Battle Of The Super Sons 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc2831e9a94324c1c44112e426f711f4:bf538af088c41d29f55ed030db7ec9e1
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/645b0e9ad940521074d1a621_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040902X0-portrait.jpg",Trick-Or-Treat, Scooby-Doo! 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3acb182d679f67fc489801fa4f989df0:b65fa6c2ae856bc926475f07da6c0bd3
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb24f8d940521074e0a63e_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039340X0-portrait.jpg",Batwheels: Holidays On Ice 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f09b3754cbc0e36385aa4fc0659cc9a5:25ae40752411475434fd16eda631f1b5
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/637dba17d940521074bcd6c3_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040410X0-portrait.jpg",Halloween Ends 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6792e70a0cd1f8a41631484e5081c709:7874451657314d0d6213dadd4532d58d
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa5bfed940521074d9103c_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038111X0-portrait.jpg",38 At The Garden 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=07bceeed1a540f8accda5ae82431466f:25993575690a5a7049e0ac9bd4f1c022
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa1effd940521074d90a2e_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040268X1-portrait.jpg",Mortal Kombat Legends: Snow Blind 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f730f06cfa956424f5367d39ab1abeb:9e7369f083d6ebc03d3effb30d6d5c26
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64325355d940521074cdd23a_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040266X0-portrait.jpg",Smile 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4332b8a852d2836bbd2f45d463d7cbdc:9335097fb32d8801b9ddbdf276c9bb2e
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6482b886d940521074d55a94_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040339X0-portrait.jpg",The Good House 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f3700b4baecabaf982a7e59ff8cf40d:88166293e1f32b898438c98c52e19711
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa5a9ad940521074d91017_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039118X0-portrait.jpg",Don'T Worry Darling 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92b9a8cea947d3759e945453b127a844:541743c1552e93cb1fb893aeab86a4ac
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63525195d940521074b8bf5c_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040917X0-portrait.jpg",The Infernal Machine 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=083bccd9f40b24b93e07f734c588d1bb:128eef59a0086cec9fc2ccfd8bec942a
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/650e64e2d940521074e2757e_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039082X0-portrait.jpg",The Enforcer 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8f67b111a9d79d87770e6590aa5dc61:a86c48752aa6cd0cdafe9ebe518d2fcf
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bb8389d940521074c2a940_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040331X0-portrait.jpg",Confess, Fletch 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb21285ddc54b57c24337e4d2520a227:9094ddd9310abccf6a60f67213a2d34f
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6482c21ad940521074d55b8e_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040414X0-portrait.jpg",Moonage Daydream 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5acf245e8f3a6e6e3780b24ef8c2eae8:cee3e5e67bf23cfe3273f876927189c0
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa5c38d940521074d91045_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039401X0-portrait.jpg",Margaux 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a32f90d971edb0368d0237cc73de32ae:b9332967de6e09b431c0b8a42c505744
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64320aaed940521074cdcaae_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040335X0-portrait.jpg",The Bad Seed Returns 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=009fd19251959806a39dc906f92c714c:6ec1d57ca846fea6ac0b37b769e7384f
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb27f7d940521074e0a692_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039115X0-portrait.jpg",One Way 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=33d2632b08f1bba63dc99b19320a1a24:dbe8c55fd82f33ccc4a39e7ef098af05
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/638086e5d940521074bd1b02_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039491X0-portrait.jpg",The Forgiven 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=932a01574a795292ec14d216abc3e9a8:b5c78983b3e00a53ba74459898f3b3d9
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63f30a17d940521074c7e20f_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040412X1-portrait.jpg",Honk For Jesus, Save Your Soul 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00fc73f1c1bc8a2541a26fd886de8550:e7a70ed73e21e4799550352a505c9e56
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa5dcad940521074d91072_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040512X0-portrait.jpg",Mcenroe 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9be60ca535459b2d2b447bfe4ca99e52:5f57f6dcfbad4fddda5c4770ae45084c
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb2666d940521074e0a664_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039484X0-portrait.jpg",Beast 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=39148205b8307db4234520b7c85933d8:a7ec4d9cb1bca394a68d249aacc75c94
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455c27fd940521074d12585_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038573X0-portrait.jpg",Secret Headquarters 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b31f64d92e2edd3aa734e7b29d414686:227c5d420609a8c376f8021c18c5a9e1
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bb9aebd940521074c2aba4_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039467X0-portrait.jpg",Fall 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=76eebfcc9eca8d8f88068c9be41eb8f7:aa6833d3240176007736f9b06fc9a7de
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455c7a6d940521074d12607_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040269X0-portrait.jpg",Wifelike 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4eafab1b948ff059028a793c178d84df:bacd1e0debd6a4af98e2e53a4f07aadc
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6482bcb1d940521074d55b02_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039487X0-portrait.jpg",Easter Sunday 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=418d192d5955a5057da4ba235823465f:fe4232105f2a44fd1c6a4811046c8d25
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455c3d6d940521074d125a9_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038004X0-portrait.jpg",Dc League Of Super-Pets 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8a47fc45036290a64d23d4ec8fca260:83b988d6cb6d64c2441d25091ce90d3b
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63090450d940521074b1e0aa_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039381X0-portrait.jpg",Black Adam 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d2d7d6d14bf511fdb5b92825520727f:d525869d111d70d6eaa286ba8b2bb8b9
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63a0187dd940521074c0170e_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039492X0-portrait.jpg",Green Lantern: Beware My Power 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f934f21232ab6a12af4f03b4722f528:6f6f6c38e106cc76aa0281af29efadaa
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63c5f20cd940521074c3a3cd_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039341X0-portrait.jpg",Bugs Bunny Builders: Looneyburg Lights 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d882144be7a305abcddc76e7c0e9478:5a3a52928c43d02c462477a39a2d2904
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/637dba5fd940521074bcd6ce_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039490X0-portrait.jpg",Nope 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=80eef4b688b5bb5faeadc47099e02596:d509a48b65a7af5a4d3a49a93fb255d0
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455ce24d940521074d126b6_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039489X0-portrait.jpg",Mrs. Harris Goes To Paris 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d34ca5558c5d260c81ec1fde6a80b16:420e6295db112f465259851c3d629046
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6482b9e5d940521074d55ab8_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039488X0-portrait.jpg",Explorer 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc8b32aba236b8e6a668361c9c69fb58:8856861386ae8d211e294b615c25a983
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6482a36dd940521074d55883_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040190X0-portrait.jpg",Endangered 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9688037b328e9ee2c279d80103cb10a6:0bc7036614226e0eeb160c3a2900dc54
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6482b222d940521074d559f5_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040002X0-portrait.jpg",Minions: The Rise Of Gru 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=237151ea8599bced70242b1a60e2bdcc:5d7d33e38761ed5f732fc35fccc8e3af
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63f31649d940521074c7e33c_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040021X0-portrait.jpg",Vengeance 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d1b1ef58b9b2aa6266c0d0be35e3278:00807715703263cd059bc87a5f151aa0
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6482ba14d940521074d55ac1_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037895X0-portrait.jpg",Elvis 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b4717c1168c7ef1dfbb2fff9ed75e1b:983f2f4426d8f603ec9e3c90a535763f
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62eb41efd940521074af13a6_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039104X0-portrait.jpg",The Black Phone 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=934c68e59d23c535b9956c95dc256f57:3508c3759738d46d640f2c58f3bfa528
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/643210d7d940521074cdcb49_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040407X0-portrait.jpg",Doula 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4ddfcc19b4169d8f65c2374a75446b7:11941c6c3e957c6bbe983c613e15cba8
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6482cc41d940521074d55c9c_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039486X0-portrait.jpg",Brian And Charles 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c78a0e7a83fb3e701d38e2dfb495c352:6289b717e15915eca90666b6eaa6f15c
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6432197dd940521074cdcc35_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037123X0-portrait.jpg",Father Of The Bride 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=657fbb4748e24951c1886b9332c99854:fc6dfff686f5b9c56aa34485a6528f0b
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/627e3866d940521074a4cce6_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038571X0-portrait.jpg",Jerry & Marge Go Large 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc4c66f1c2cb69708f8c6d090edd5670:b386cac6aa376b91a7bf0af6b42e6d17
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63803d7dd940521074bd1381_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038101X0-portrait.jpg",King Tweety 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3fd6057b764397789c0b53d6f5b33ff:0da852263f8def5ce625438a881a08de
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342cdbfd940521074b74a80_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040270X0-portrait.jpg",Katrina Babies 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=faf6a247abeb281555340b57f42c9781:55865255a85424fd4bfb6ef5359f82cb
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb19fdd940521074e0a52a_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039449X0-portrait.jpg",Jurassic World Dominion 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b01efc541837ac20225d45c01017478:f17c0d9dce14189f14ebc30d422bc1f8
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64096451d940521074c9ff92_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038405X0-portrait.jpg",The Janes 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f49d6e95c789197d491b645840fb4e66:18cea3795549c5a4026d3648d33ff9d2
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb0106d940521074e0a265_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038005X0-portrait.jpg",Eraser: Reborn 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=09c01e57f35f2455c10c40588d55d4d6:bdb12279b2e904b8e91fb66413683631
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636b7607d940521074bb1dc5_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039402X0-portrait.jpg",V For Vengeance 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2435834e51edd4a250af7d0b0e1f5485:41ce5c7cad0dea42304a4442f9c1f028
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64321e0dd940521074cdccb0_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037974X0-portrait.jpg",Top Gun: Maverick 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92c576390921fdd3968eef7675385739:210391610b005bd86b3188e3f41dcb05
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6380a3b1d940521074bd1ddc_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036974X0-portrait.jpg",Navalny 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0fb2b52697e5976829a125c34607c4a:f4d0570c9e2219907cb53f6473d0c62c
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6283717dd940521074a54975_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037975X0-portrait.jpg",Teen Titans Go! & Dc Super Hero Girls: Mayhem In The Multiverse 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbf82611f81298e42a9493961feff1f7:c6d9b03ca108ebc4c379dd8781cae4d8
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636b2cd7d940521074bb163f_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039375X0-portrait.jpg",Downton Abbey: A New Era 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b4e014adad7fb62f36a12843aade61d:94ad7e26c8c5dcfe2ca289ca81caebc5
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63ca4d73d940521074c40d1f_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039374X1-portrait.jpg",Firestarter 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9800e29fa15ab9a8e18ff2ecb9044ae1:6e9a0a384dd23546f4d30eddb0c654ab
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63f2ec25d940521074c7df32_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038089X0-portrait.jpg",Dc Showcase: Constantine - The House Of IDNtery 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=35f4bfa08e09f05763fe80d1339ee5d8:e0db36a9750f1906ad5b2e395bd764ca
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342dc2cd940521074b74bf8_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037490X0-portrait.jpg",Fortress: Sniper'S Eye 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5c8e64802484c4a95d59c0765cbbd60:7653ecedaa01d388574bf6d4765e4293
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6318496dd940521074b34ed3_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039379X0-portrait.jpg",Memory 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb17bec7244f2a03e5644780af88486f:7695f84bc5054965a5947cd44c480f4a
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/640687a2d940521074c9b9f1_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037590X0-portrait.jpg",The Northman 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8631798665a49b3438f6f7821729338d:4d54dc4a92965f0671d48f89e16e3c7f
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/637606dad940521074bc1db7_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039245X0-portrait.jpg",The Bad Guys 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=50a5b1fe96acb8b7d9714cbc26134163:c5718a1b968f70fed18399fdbc816e2d
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bb757dd940521074c2a7d5_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037116X0-portrait.jpg",Fantastic Beasts: The Secrets Of Dumbledore 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f28d844df51ca02d318d7ddb847f74c8:98fd07dcc51e5e5ce0ce6aa9bc4fab02
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62792a41d940521074a4530c_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040193X0-portrait.jpg",Tony Hawk: Until The Wheels Fall Off 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=61456bb41325a0ee463c8c031679ad8d:7f6f7b97a34a47da22996d7411303fc2
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455c90ad940521074d1262c_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037588X0-portrait.jpg",Ambulance 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a26313e43f2b36e64111bd5f20f82a8b:4c2fe8e829d418bfd7d4ded2bbc4d7a5
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63760ba3d940521074bc1e52_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037973X0-portrait.jpg",Sonic The Hedgehog 2 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ee3f16fc50c439ef1e7bf99bf95f082:3bd146a89b97e742ebd95e233d830aca
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63230076d940521074b45076_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036972X0-portrait.jpg",Fantastic Beasts: A Natural History 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d91e5ba0bc5e3fc19d55826037d406d8:4f4b5ed00aa0005d76cc38716b6a1eee
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6279256ed940521074a45292_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036820X0-portrait.jpg",The Contractor 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6fcce32003fcff7817016652d394aad:a3c412378aff130b934ab0fb610efa81
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636be706d940521074bb2971_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037489X0-portrait.jpg",Everything Everywhere All At Once 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9441af1e52c27c4f4759b6b3754913de:4e5db648fc9d0eeade20b6135faeee0d
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6317464bd940521074b33602_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037907X0-portrait.jpg",The Lost City 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dcf0caed4f1eb108a28a9ed65e49ad7a:7fc280a8fb1e02a22533b515d8f3c35b
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342984fd940521074b74505_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039114X0-portrait.jpg",Super Greed: The Fight For Football 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=398f28840e668a46ab44e3ad255768d6:778b0ef465002ad8699205b7120a503c
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63ca3bbed940521074c40b56_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039485X0-portrait.jpg",Bisping: The Michael Bisping Story 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f20324da06e73305984d86dddf411781:d5d3598e78e95318a893de3ff922f7c4
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63f2fa12d940521074c7e087_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038442X0-portrait.jpg",The Outfit 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b1d5ee5f0d51e9ea934ffa52751ab9a:85a9e0a7765d931c7a4ae87e9786eca4
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bb86b7d940521074c2a994_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040322X0-portrait.jpg",Making Of The Last Of Us 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dafee42174de18001e4abe81ee371ae:6a4a15371a2316e1a380f5a6b236f95a
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6412d0cdd940521074cae0ae_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036967X0-portrait.jpg",The Batman 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3baa9021906f125457c96883d83e3f6c:c9a4dd29d1e31a1fcd01a78590c61d5d
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/625530d2d940521074a0f2d4_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040209X0-portrait.jpg",The Last 10 Years 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=560e1449ca4923be37b36b41c812b38d:d1399c24cbb401413da4ff1a87de5045
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6417c77ad940521074cb56d9_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039468X0-portrait.jpg",Frederick Douglass: In Five Speeches 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7cd1b8a510b85292523bbeee74410516:0def4a1a996131f39a556fe8bafdd80e
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455bd63d940521074d12504_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037908X0-portrait.jpg",Run & Gun 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c839f16ec6474bf575a2c6442655eb8:62093e3f4ad98d9a156cfa9461bb5435
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63428b25d940521074b743ac_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040022X0-portrait.jpg",Icahn: The Restless Billionaire 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=21f53609fdcb8463bdd768082187fa25:8c111e56b16e21b954d358954d23a12f
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64321b0dd940521074cdcc5e_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037589X0-portrait.jpg",Marry Me 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8888f0524a39b106c3af820cc809497:f9b54f5fc68302c2486023f56d0ce5d6
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/638086bed940521074bd1afa_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036310X0-portrait.jpg",Kimi 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ec8aec0a3f54e4c8d21ac41538cfeef:d6087ce120bc8f8ee58843c16e15a211
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6202546fd94052107499273b_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037320X0-portrait.jpg",Catwoman: Hunted 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5290f05ad454ce3c74f904dc3eed167d:d3a361347aef31b504c850da4ea01e8e
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62cd62e8d940521074ac4560_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038455X0-portrait.jpg",Moonfall 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53a4912f830b3c1611164d30c7b1a22d:12be4137133533126dce4e2e4a97d539
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636b3f92d940521074bb181c_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036064X0-portrait.jpg",And Just Like That... The Documentary 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=77d840e9f9c04793b62bd6650b0639b6:680030ad4339e5f38f7f7bd84130f3c1
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61fb850bd940521074988489_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036060X0-portrait.jpg",The Fallout 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9739646a3a304ca88d04dbcdd7e0364a:d82c8151a3d1ae5fcda631ec72eead30
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61e036fafbbcc21f45d61a6b_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040319X0-portrait.jpg",We Met In Virtual Reality 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=65221b44dfe18d850e5cd097fdf264c7:dbe4bc9aab65ca50a2d2aaa97273da43
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa66a8d940521074d91152_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039378X0-portrait.jpg",Heatwave 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53aa0285e81c11bc845c3da21e0496c9:9a25485bb9d75c003d862798aaf5eaf8
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63f2f8b4d940521074c7e063_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037909X0-portrait.jpg",Scream 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=648f7d16c3eb9f0609d126b468e00f26:a1cd339b6d115af5efb2550b613fc6b5
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62edb8c0d940521074af4fbd_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037903X0-portrait.jpg",Fortress 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d74381ba0d51aac55888bfe760bf5c60:962d9c72bb5da610643e41928e371e5d
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63174365d940521074b335ba_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034717X0-portrait.jpg",Harry Potter 20Th Anniversary: Return To Hogwarts 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=057724613f4a44c2b90be8213036b00d:441a7d0715cb47a5aa93be4d2203faf8
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62038b3ed940521074994732_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037283X0-portrait.jpg",The Electrical Life Of Louis Wain 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fdd120f1c7b9f7c6b99b6626ddc1fd14:ace8c4a7fae1194815ad36f5847be85c
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63426f3ed940521074b740d4_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037632X0-portrait.jpg",The Super Bob Einstein Movie 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa648ae6efd2836f7ad09e3d7813533e:ae421f04eae0e4ef00f2e1a49b21a877
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63ca56fad940521074c40e11_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036304X0-portrait.jpg",The Matrix Resurrections 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d9b0ba5cee245178486faf5addebd6c:e331c576eafb88cbed3944455cd85bd7
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61f3c993d94052107497cbfc_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036975X0-portrait.jpg",Sing 2 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f06dfbaaed25d3c7148139e93ac24883:48d7ea75d63bb205cc2cd78b9499817e
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63427f14d940521074b74267_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036867X0-portrait.jpg",Reopening Night 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=52faff4e9db2820652db40196c463c67:a7903d6e4eb8a61dc5d6972cb9cc1c8e
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63820702d940521074bd3fdf_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038568X0-portrait.jpg",Christmas Takes Flight 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53ece42afb1fb08741823f43bd65a050:1781c60e3956806991e73bf449feab09
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6380498dd940521074bd14b5_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038102X0-portrait.jpg",Nadia 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e5b11ee98d534db56c99a9e0b526138:10b04895a7a6248e405212501fc9acb0
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342dd86d940521074b74c1c_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036830X0-portrait.jpg",The Slow Hustle 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c005d496bf1a01334d6b970d14e8c3f3:1015b2fb4bb69644e42816e8418cb748
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636c0e6ed940521074bb2d6e_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036829X0-portrait.jpg",The Forever Prisoner 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a240ab01f0cd7b642a069bf8f74c6d8:d097124c2faeb612f7f0c542e8885b18
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636bf696d940521074bb2b08_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036850X0-portrait.jpg",Adrienne 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e251c3298c2b3614d5837f98018769df:f6f7d7d717b1138e909d756c2c09378a
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/638077f9d940521074bd1973_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036868X0-portrait.jpg",Life Of Crime 1984-2020 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3291ea190f463841eb7e0d40bd6b0de0:7cbee9641b1de35b523ca06d98e911f0
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636b2fdbd940521074bb168a_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038570X0-portrait.jpg",Merry Liddle Christmas Baby 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=336ec3240788ab1b7ca2d5b2415de3a6:424624691899067403b10842b7a93294
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6380765cd940521074bd1949_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039397X0-portrait.jpg",Time For Them To Come Home For Christmas 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=857d0ba966276d74dcc399813f612ad3:938410640eb8b99b114ec20a8ba46015
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455b433d940521074d12427_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039398X0-portrait.jpg",An Unexpected Christmas 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4635e4469fc767e70aefd3a746521724:c90da00cbb7794c31d5cc24b182b6ab4
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455b2ded940521074d12403_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034759X0-portrait.jpg",8-Bit Christmas 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=73e55b2e8edc55778a94d33c87525e2c:52657c6e384508675f9f7028d96245c8
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6194f9defbbcc21f45ceefc3_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036295X0-portrait.jpg",King Richard 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1357c23ea424433c83afe69717c010ae:a53ddd1fcc0134e94fe42bcd85a6b687
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61fbcf7dd940521074988bb3_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039400X0-portrait.jpg",A House On The Bayou 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0fd0814d91a3244e6a7dc877bde85ce5:472272a0975157976155625a3c280511
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64320f3ad940521074cdcb1f_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037284X0-portrait.jpg",Psych 3: This Is Gus 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d9725c0e655add81e6fd1d0ecef55bb:730e519c26832a5c19fdac65b260566f
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63428aeed940521074b743a3_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036828X0-portrait.jpg",Simple As Water 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8043df5cdf20db81edb54627fc65dc7e:da500cf9885bbac9c8ec602bc5412a67
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63589ccfd940521074b955d4_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034462X0-portrait.jpg",Transhood 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c62624c122694c3b8cb57a20bbcbfa9d:5028b861d5bd46d8918eed44f417c07e
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62032addd940521074993ce4_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039396X0-portrait.jpg",My Christmas Family Tree 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6244e3f1657f5d85c33dd818f7d333a:f8097243924f7b42c26c41900ba51302
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455a2a5d940521074d12263_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037906X0-portrait.jpg",Clifford The Big Red Dog 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c73425a27067d5a0538301caff90c176:b4c9d4480228d799900d20b23e92684d
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63173da1d940521074b33525_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/035716X0-portrait.jpg",The Rock & Roll Hall Of Fame 2021 Induction Ceremony 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dc7fb71cf344ac79b39edce3eb2e54f:7e27e21599a195e5f98e393dc5770c23
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61c2cf7bfbbcc21f45d355f2_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036827X0-portrait.jpg",Ricky Velez: Here'S Everything 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7664d6e758db7a403aafd9dced9c5a66:ed3cfffee53eed53da74ef122ffcaff3
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bb6e1ed940521074c2a711_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/033529X0-portrait.jpg",Dune 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34a59c49d33959e4ad20259684db6414:41c8678505677a8748befc3ae28cc157
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6406b2dfd940521074c9be09_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039377X0-portrait.jpg",You, Me & The Christmas Trees 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c1a26940efe50dd2d01607f1423268a:174ee3d551e587cb16885923c7a47653
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63f2e99fd940521074c7def2_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/033526X0-portrait.jpg",The Many Saints Of Newark 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe8deda17d53522cab25423cf92a2685:a0f1baab93c172dcd1d318492ae55dfb
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bfbf75d940521074c30fbc_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034832X0-portrait.jpg",Cry Macho 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7fc5a76277cb40b59fb8c80520289a2c:fe38a954ca762317ef2d5d43d26a1944
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63e47981d940521074c68072_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/033567X0-portrait.jpg",Malignant 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7ab8c3244d85a1aa61e14b8fc9c09fc:41b3b931e7ecce452c817249a577d875
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/615579e99a11bf7ccbf312b2_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032418X0-portrait.jpg",Cha-Ching�S Money Adventures: A Musical Series 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a402e576554355d08979bbc6ca5ba030:9ebe0aa54b27a0fca1d6fc8e6c17a146
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61109fc12bd0bb5cd89dbe2f_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038581X0-portrait.jpg",Summer Days, Summer Nights 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f0e23aa4c3c0e0597af88705fec7a90:178c54f0fa039c0331b4d9370e2f3798
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63ca4926d940521074c40cad_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038630X0-portrait.jpg",Sealed With A Kiss: Wedding March 6 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5bea3db46b994ac1d840ecf313b01f9d:8c08da9e4f597ac58596113c567dbf2f
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63ca4a88d940521074c40cd1_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/033426X0-portrait.jpg",The Suicide Squad 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa6a66bcdca85bb180d0f905f3243d2c:72929e78735c6df826d98ea512dbc2a4
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bf8190d940521074c309c2_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032891X0-portrait.jpg",Space Jam: A New Legacy 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0220728ee3505e06bc66cbe386d9bb58:f1dc760afd1eebf5cc6866e48a81aab7
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bfbc29d940521074c30f68_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032069X0-portrait.jpg",No Sudden Move 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f49d165552fe5a028479752ef7f57933:4be4dc2a6619f7b5d511befcffe15385
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60dc75ec16b55f4d934fbce1_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039483X0-portrait.jpg",Paper & Glue 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b642286748ff199007f171af9dbb520:78e590b56e88c1b0300e771a79f53243
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63be1ff2d940521074c2e846_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036866X0-portrait.jpg",A Choice Of Weapons: Inspired By Gordon Parks 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbac1661ce6e2b586178aa5fb62cc1de:999489009490e2f0d5547203b09bf81c
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342561ad940521074b73e2b_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/033172X0-portrait.jpg",In The Heights 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=62adb4ffeb1a59f7aad4c5641f1e59c7:189333806fa192d3b6abc9449d2715ec
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/612df17c2bd0bb5cd8a090ec_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037112X0-portrait.jpg",The Legend Of The Underground 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40d7e6372d4eccc626235c3db8ed768d:d10dcb5d4619eb100ddca02acd413cee
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62cd5673d940521074ac441e_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032930X0-portrait.jpg",The Conjuring: The Devil Made Me Do It 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd002cd4eb5e42b7fd35e3e72d52ae:01dc61a4e3a5f182cdf80112ae04e863
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/611a14af2bd0bb5cd89ea595_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/031046X0-portrait.jpg",Oslo 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=58d176494ce55576a466d8f5050c8136:efac651d07e2131f702e055ea5dfd602
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60a71c248caa5a5e0b10a78f_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/031382X0-portrait.jpg",Friends: The Reunion 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c2d7a256b2c51beacdc13b3c620f1f3:e56fd562cd9ec6a913545c61596a6e71
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60ac77878caa5a5e0b112bd8_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034405X0-portrait.jpg",Those Who Wish Me Dead 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=90bd7adb2ebb480aa3f0657a5703c7aa:8ab60c2d85d8d17d5e345df2d7a72e43
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61da6863fbbcc21f45d58c34_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034406X0-portrait.jpg",Mortal Kombat 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6736a7c08b9b4c27b7794f50ed175c53:caa56583584ef76d8c89a384cda97cc3
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61b1ee3efbbcc21f45d1ba7a_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036816X0-portrait.jpg",Our Towns 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=46bb237d42af6821739655912d692d24:d3e69eff462af5ff782db14868dce3d1
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63173d7cd940521074b3351d_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/033534X0-portrait.jpg",Ben 10: Alien X-Tinction 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b68262674c952f8b320eff4ae71f04b:203f27b095ba7c58ddedf589ae7f39b4
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6145cddc2bd0bb5cd8a2d2cf_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038569X0-portrait.jpg",Crossword IDNteries: Riddle Me Dead 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c13db60a02b44498f790c39e1216e935:d261b3a27d6259295b918c83f37f0401
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63809ea7d940521074bd1d56_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/029930X0-portrait.jpg",Ben 10: Ben 10,010 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=21c27ce2b1e55c5598b9aa50e89030ef:046d60b489ab8b28fb552b213e8049a7
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/605b010c6d048943f779571f_hbovodhd/dash0/IDN_index.mpd
+
+
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/031726X0-portrait.jpg",Godzilla Vs. Kong 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=145babadf5fc508a99f80fb73186bd27:1a36c172c10112b14b27d4c9877c7044
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63e48965d940521074c68224_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030584X0-portrait.jpg",The Last Cruise 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3edb7081e4b65ffeafc80eb8100beb7e:425f0c8ca94aa678e10e4d665858e0a3
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60c543a416b55f4d934d8051_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036815X0-portrait.jpg",The Day Sports Stood Still 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a90383ce302919dd5355168c99dd9e40:71529b471a376d739482fdf96a267c7c
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62eb295cd940521074af112d_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/029901X1-portrait.jpg",Zack Snyder'S Justice League 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=27021ea2fb9159caae60063c78d5ad88:aba6eee8c741716c709a35d382e8b121
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/604f3ad46d048943f7784083_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030577X1-portrait.jpg",Zack Snyder�S Justice League: Justice Is Gray 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f0c837d9d685ffcbb6929319262d861:224380500dbe84003e1cdcdc5fa7ae42
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6062e95a6d048943f77a10d1_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036817X0-portrait.jpg",Covid Diaries Nyc 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0abacf6cd2bf8efa7109c382a4a6e8e2:0f4c0dd09a0b1528305846bb8c90f539
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62eb3ddfd940521074af133e_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030578X0-portrait.jpg",Tom & Jerry 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b9c8e91a5295f2a88e286428f2e3952:d79a35a5cd784d6c1a113e253cf03a37
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63e47b6dd940521074c680b4_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/029538X0-portrait.jpg",Scooby-Doo! The Sword And The Scoob 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ddb7e9d9ad253f8800ab53c34b2f0f5:8addc626e6abf0a1f6fb541389227ff2
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60c553f816b55f4d934d81f4_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039376X0-portrait.jpg",Crossword IDNteries: Terminal Descent 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=514959254e6b576d456c81c881d4b2f8:e7f910ffe4ee2e291653bb10cdc46867
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63f309e6d940521074c7e206_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038567X0-portrait.jpg",A Christmas Proposal 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=21d24f8b0ea7d4a26fb9c8602667b202:83f745366eaf1050b62afa59ec323250
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63802f90d940521074bd121e_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034806X0-portrait.jpg",Judas And The Black Messiah 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ece338cde764c3dbc72c41b2aeea9f5:db4beec8456d1c22d80b03dbb2e9745b
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61d7c71afbbcc21f45d54c67_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034544X0-portrait.jpg",There Is No I In Threesome 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e538b8c0e99d59b8a24594c44c5b5104:68ec8f9a0dc57a52fb8fa19ebbaf1c5c
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/619234a6fbbcc21f45cea51f_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036818X0-portrait.jpg",Black Art: In The Absence Of Light 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b6ccb84b096976cab9fc6e28ef7f52c:3cc9d940746b2b3a83cf2bc32550fccc
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6293a1fed940521074a6d475_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030583X0-portrait.jpg",Fake Famous 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb99fa59eb525f0496b07f689832d057:909d1e6cd03f70c5767ed308751e5819
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60fbd373e59f821aa9e6af5d_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034548X0-portrait.jpg",The Little Things 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fb4199a8cc05d6293defe0eea77d8dc:816373a029129b47726d7da708c1527e
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63e46e02d940521074c67f4b_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040242X0-portrait.jpg",When We Were Bullies 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd05521c0af87556981a888bf5942736:061c92db8906b7276811d8833d0e90a2
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb121fd940521074e0a450_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/029211X0-portrait.jpg",Euphoria: F*Ck Anyone Who'S Not A Sea Blob 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d463f91e8f025dec9d083e914cdcd39b:038f792a0441036e258ac96db4c244e6
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fffb1156d048943f770e7cd_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/033858X0-portrait.jpg",15 Minutes Of Shame 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d38924bcb3515b4bb823a70f84e6903e:e8dc77e30da245e72f8d53c44936719a
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/615ea4409a11bf7ccbf3f5f6_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/035051X0-portrait.jpg",Insecure: The End 2021
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e56bd1af1ad4a42b20fb4aebc670032:ee19f91bffe845e1da0a41056dba2ac1
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61c1add0fbbcc21f45d339fe_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030581X0-portrait.jpg",Wonder Woman 1984 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d65f3f88e9735f66ae0ce8ea18e0e60a:95dcfcecab22f00aac0c210f804ec27d
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bf8370d940521074c309f2_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034523X0-portrait.jpg",Under The Grapefruit Tree: The Cc Sabathia Story 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c16ea270a194debb4fb5f21410eab6e:2e98f5de3755ed7697346f4a0a41742d
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61dba7fffbbcc21f45d5aa3c_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034524X0-portrait.jpg",The Promised Neverland 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=856fd90d3d6e32f4c9d57643944224db:f375133d95b8892de9069b0023b63f05
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63804390d940521074bd141e_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030582X0-portrait.jpg",Let Them All Talk 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b61685b8a5b35ddfadd80732331d8f8e:9965b9bd9c2e525dd4ebc67b7346c650
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/606ae1486d048943f77acc67_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034407X0-portrait.jpg",Alabama Snake 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f774a11d9e88e65974002614f54079bf:03fac60fd8ad756cf79f46c1e32cf266
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/622eb911d9405210749d541c_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/028885X0-portrait.jpg",Euphoria: Trouble Don�T Last Always 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3d9e3768e5059f09903dec3f0ff83bf:981a3560395df97e2af41d50d2513862
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fc44fe26d048943f76b73a1_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034542X0-portrait.jpg",My Gift: A Christmas Special From Carrie Underwood 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=319704c333cb59508192aae389ff227b:41e67e1aceb3359ec7e572dc89369e83
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61923f97fbbcc21f45cea649_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034459X0-portrait.jpg",Baby God 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ef82fe4e427f6f7c35c0ebaf0d64cab:e4ada3242c0f1c2df740f580dc7c82b9
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62282656d9405210749cb625_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/029539X0-portrait.jpg",Happy Halloween, Scooby-Doo! 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=63f236fcb8d95727adfebc927401d2cc:76433bc36ec8eb66b86f62fec092f0c7
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/608454196d048943f77d2477_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032173X0-portrait.jpg",Burning Ojai: Our Fire Story 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c4eccc040f5443eb507772136eb91d7:3d6f5c85e28fcc72271f35c21cd77145
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61da4a2dfbbcc21f45d5893a_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032176X0-portrait.jpg",The Soul Of America 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9207806e50f4114b297688d5a6c491d:ae416a367db1adecbfd050c2a4d651cb
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62033875d940521074993e41_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032157X0-portrait.jpg",537 Votes 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=320a1dc23fff4a3791e41c8a696d1231:eeaf8cda037f4a7fc0065f2fc38c864b
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/620339dcd940521074993e67_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032159X0-portrait.jpg",The Perfect Weapon 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4e58de2919141e0929eab30604f7bc7:fe027a4bf408bbd336fe2b0aba80430e
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62033b53d940521074993e92_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/027218X0-portrait.jpg",Ben 10 Vs.The Universe: The Movie 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c781492ffd54bcb46cbbf66bd1b34a:efd6bba0c8e40be5ba080d0ee91e4fdc
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f4d7e5c6d048943f760800b_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032161X0-portrait.jpg",Wild Card: The Downfall Of A Radio Loudmouth 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=656420f835d542d2a0e4687ca30bfd4d:6334b163bd5f908632d1f1c3b8c8c432
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61b1eb77fbbcc21f45d1ba22_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032160X0-portrait.jpg",Siempre, Luis 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=64a26f68e23144eb9bb57500efde334e:a2a0ff4d119dacbea8f93997533eaaa2
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61b1df66fbbcc21f45d1b895_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030363X0-portrait.jpg",Pat The Dog: A Very Special Dog 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e856f510d4ef5ac3aaed22900da55c65:46483561e0588495c46e647f614c234c
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/604fb6376d048943f7784c5f_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039452X0-portrait.jpg",Habla Now 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a05007a1d39a868b1bf7b75db1206e5:3e897a01d672b7f9d25192ff8e971100
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6432163fd940521074cdcbdb_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032158X0-portrait.jpg",Coastal Elites 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=65967f9bd36b5db9a28433788d32368d:5c532e2eab0ce14417df758da9fdca90
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/618ce093fbbcc21f45ce1fd2_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/028975X0-portrait.jpg",Unpregnant 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8567f034249a57e2b58e23541272fa2d:9587a95f57bf7c497ecd3344ae3c3d08
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6401b121d940521074c94668_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032178X0-portrait.jpg",The Swamp 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4649d361f9d55f33ac59e2bdfd9a7025:932e8c4a944cd2d928b6d41eb7eac9d1
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/616397149a11bf7ccbf46f03_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032175X0-portrait.jpg",Stockton On My Mind 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4d8480790825aaab563138f03f67637:3d93d3afadf0032cf2a291baa866f1e2
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6162bb039a11bf7ccbf4588e_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032174X0-portrait.jpg",Showbiz Kids 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fa874bf1bc05eb09faf8e301ea41196:b0b27b559e8e7f9a5acaf01ab7a984e2
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60fbd533e59f821aa9e6af8d_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/025005H0-portrait.jpg",We Bare Bears: The Movie 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8555f46076955395b912f660bc034bfa:66c1aca02fa9524e5159e62b88326b13
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f3cdd796d048943f75ef07e_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032261X0-portrait.jpg",Yvonne Orji: Momma, I Made It! 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5778315a4b5173ba9dbf2b2899d1b5:e68ec9e475e5ec88ef41a33f563f23b6
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/612094fb2bd0bb5cd89f479d_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032263X0-portrait.jpg",Bully. Coward. Victim.  The Story Of Roy Cohn 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7cf5db1c9f055f468365edb6144f3ea2:e26e9d9fa8e59f50d96d317859e6f721
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6162bd149a11bf7ccbf458c7_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032266X0-portrait.jpg",Natalie Wood: What Remains Behind 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b354e496484d54e1baec4850bc0b305f:0b833d462a3a7e6d56f2e76a7260b182
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60fe916be59f821aa9e6f179_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/028978X0-portrait.jpg",Lego Dc Shazam: Magic And Monsters! 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=555e71a891645540bd0740d1627f3da2:7be459e2ea5bc5fc7b1b978ada44c9be
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ff5a3a36d048943f76ffb48_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032279X0-portrait.jpg",The Scheme 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=15f4e3adf23f5155a63cd451ab4e10f2:63a7e73f6b06ae29680ae325acf679e4
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60ee26ebe59f821aa9e55a65_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032262X0-portrait.jpg",Kill Chain: The Cyber War On America'S Elections 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca05044501f651d89c0e321847fb8f33:c7762800cce8ebcf433cfa84e107e90f
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/612098482bd0bb5cd89f47f7_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023671X0-portrait.jpg",One Nation Under Stress 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=83bf436c16485ff588c923720b2bd2a3:d151e747a70e205aee235810327fa574
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ecfaf176d048943f7548ed1_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/033908X0-portrait.jpg",Fukushima 50 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf83bd3b16d659c58dd4aa3dbb794358:4327bbfbd1abcf6a4dae048b874a527f
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/618f3a78fbbcc21f45ce5a0f_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032264X0-portrait.jpg",After Truth: Disinformation And The Cost Of Fake News 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=501ff466feb25ba1a81c22a98b0de5ca:0fb1d848977da768c6883015d09bbdc4
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60fe7781e59f821aa9e6ee2b_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034467X0-portrait.jpg",Crazy, Not Insane 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=620f828969a2d89377561ccd44e216ad:3fa6d6e74dee46ce6cc46a4d483f0e81
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62285074d9405210749cba64_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032258X0-portrait.jpg",Women Of Troy 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b34abcc1e8857ebb68d035b0023a32d:3889dbb67ff609e82243120100c3b7cc
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60ee2274e59f821aa9e559f7_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030445X0-portrait.jpg",Ali & Cavett: The Tale Of The Tapes 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bd3fff822815ac5b3a0b222750a7f78:543b912cbf433bd3ee453cf7c491a445
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60c504f716b55f4d934d7a21_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030449X0-portrait.jpg",We Are The Dream: The Kids Of The Oakland And Mlk Oratorical Fest 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e13a05eab5645f68b7bf2487571f71d9:eac700437640b069d9302a47e84b1b0d
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6162b5859a11bf7ccbf457fb_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/026829X0-portrait.jpg",Birds Of Prey (And The Fantabulous Emancipation Of One Harley Quinn) 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8061d9441e250189788d4e8b27f4dac:a27f6f27e2d32bceccedc4fb8b7b1182
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5feaed166d048943f76f000c_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/035720X0-portrait.jpg",Kaiji: Final Game 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e766311b1355849315b46da9533c343:d7202584e1c1339ae332b8247da9f574
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/648288d7d940521074d555d1_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032468X0-portrait.jpg",Pat The Dog: Into The Wild 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c148d8962462584fa09e4adf769cc6db:a50c838066031c5bf2e973c0026cd395
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/611a496c2bd0bb5cd89eab5f_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032259X0-portrait.jpg",Finding The Way Home 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b70e66f21c975a43962e17ed10f298c5:6527f636fa8ea5e9b9c1857d1be5e3c0
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60fe88f5e59f821aa9e6efed_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023947X1-portrait.jpg",Wig 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd26bed6f22050aea0bb6a4702a05302:6d7f182712114530311b3f7eb12c27b3
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f2926b36d048943f75d1013_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/029388X0-portrait.jpg",Lindsey Vonn: The Final Season 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47b04227e82657ea85bc2145807fc439:0ec5c265b4075e334a81e36d5976fb06
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60473f486d048943f7778384_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/028544X0-portrait.jpg",Lil Rel Howery: Live In Crenshaw 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e76cc339d05597683b355f9487b1922:4efd4733f2c1f20d1692e08f775b1541
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5faacc006d048943f769195c_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/029537X0-portrait.jpg",The Apollo 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=daf989a90a245936a9b2c584d5c765b4:c344c9ad76695eeaab1c18cb89e7b840
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/601b4be36d048943f773796a_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/028543X0-portrait.jpg",Saudi Women'S Driving School 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a8420101a575cbea365709042c9fcdb:ea239aeb69140d2fa2e65fead58f74f7
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ff5a04f6d048943f76ffaf8_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/035718X0-portrait.jpg",Her Blue Sky 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=48a81e5fe195b05fd53addcba852b7af:cca13adf040ac7d5de3d48aee546de0c
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bbbe5fd940521074c2af18_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/028542X0-portrait.jpg",Torn Apart: Separated At The Border 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=50f8dc8c65c751de93b7892e3ada898f:6ab1aab041b3146d804257b3184e78d5
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ff2d6736d048943f76fb993_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/028540X0-portrait.jpg",Liberty: Mother Of Exiles 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c75fe22f30a5c9eb995856398303a38:f595a4bf5a61c3d24b10a2d0b1233e22
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5feefa166d048943f76f5f11_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/035647X0-portrait.jpg",Detention 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a2a470368552cc0f5bea027fc9d4baf:def8d086344e8b17402b11e5e893ddf3
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64904b73d940521074d6a2d5_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/024997X0-portrait.jpg",Buzz 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c43ea0212cd85af8a98a9d51ed71cab7:5ce09ea0445d3fe14b029a17c71f9207
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f96c4d36d048943f7673fb3_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023778X0-portrait.jpg",Downton Abbey 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=30fb204ec6915c7da4d3a618797c6e46:4c19d776c3ca9df77a0816126d13669d
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63d25b9ad940521074c4cd82_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/029390X0-portrait.jpg",Moonlight Sonata: Deafness In Three Movements 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=61f7a20183b45fe39188d87e679a4850:922f0300a865a816583ccb88ad179f24
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6042146d6d048943f7770994_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/028541X0-portrait.jpg",What Happened On September 11 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7fae5759da5f59c492dd0c2d6232b83c:f7c1415fe02fbfdbb37b57db5d53a261
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fc081e06d048943f76b1a85_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/028758X0-portrait.jpg",In The Shadow Of The Towers: Stuyvesant High On 9/11 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=29f44bafce83564c9df821918638b14a:c94b97137b41e48f08a6681a02c920ef
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fcf6bc46d048943f76c78c4_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023572X0-portrait.jpg",Bad Education 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=48b2fbbc8be25451b120d3d8d788edbd:dbb4af8212f20d8594566706d2e208a3
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e9d186f6d048943f74fbb63_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023714X0-portrait.jpg",It Chapter Two 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4457a3a688ca5b2894290f14eab208bb:d156c740365028f6a2aaecef9f84a90e
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ef5fd6c6d048943f7583351_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036062X0-portrait.jpg",Scooby-Doo!: Return To Zombie Island 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6f9d1ea7dc74c5d9839d2e61ad9aa84:1afa35bc4e948b3e226b52525e3c17d6
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61f281f2d94052107497ad57_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/026734X0-portrait.jpg",Steven Universe: The Movie 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=910b1dd682db581280a5d6039c424444:e3ee39a0ab3ecb357c8c5149f065affc
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f83d9306d048943f7658322_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023713X0-portrait.jpg",Blinded By The Light (2019) 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c48cdec598785a9288c0d7c96ecaa6bf:1968e16a9983ee5b3ee5615af5e29e7e
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f194caf6d048943f75b8e09_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/026801X0-portrait.jpg",Alternate Endings: Six New Ways To Die In America 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c672124f77852218b55f84c999855d5:3dcc9a34db5e4397e147bfb7d7be28b6
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f7b0eff6d048943f764b28b_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/024996X0-portrait.jpg",My Favorite Shapes By Julio Torres 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5157b0aeead15093855881df8d51a891:42d1f0af488f6036ac2ba8ef318638a5
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f76dc446d048943f7644f3b_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023508X0-portrait.jpg",Fast & Furious: Hobbs & Shaw 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b9b56bd7f8a51a4a37f450cf3334152:ead1c52f745993bc3c8802ad7de99d64
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e7864b63a736626cecbf699_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023991X0-portrait.jpg",Who Killed Garrett Phillips? Part 1 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4ccc2a761dc50599e9d0d0c539ccd34:ddfcdb5ca9c933018a98daaac2b6f1ce
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f4f71d56d048943f760adef_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023992X0-portrait.jpg",Who Killed Garrett Phillips? Part 2 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=770cec3f5c3c598d945edba1803fee82:ab473adf5c302c3b1b6eb4c68dd57ee9
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f4f8af06d048943f760b042_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023619X0-portrait.jpg",Lego Dc Batman: Family Matters 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8d43e39b7be5b14991271ab6bc08ead:12e6069c423c2d79ca416632f3830d7f
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ea3b3a86d048943f7505cba_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/035725X0-portrait.jpg",Weathering With You 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba3bbaa55fb5cc27e8fe557f401f232a:2c9b166707bab3be814faa159a0fb149
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bbbe8bd940521074c2af20_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038580X0-portrait.jpg",The Lord Of The Rings: The Return Of The King: Extended Edition 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53e5693190ddcb5200025459868ac054:89bd9064bde0396419b720b7323af0bf
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342eeadd940521074b74dcc_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023948X0-portrait.jpg",Sermon On The Mount 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fca4ed8d94256d6b4a89af70961e347:8117447554a945027bc49c9c6c37e421
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fb5f9036d048943f76a2334_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038088X0-portrait.jpg",The Lord Of The Rings: The Two Towers: Extended Edition 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11bbdd6fbc637f2a35469e348ef7178d:ff9afd5181e4441ee624988567479372
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342d792d940521074b74b76_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023471X0-portrait.jpg",Annabelle Comes Home 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=534f2722e9b959c3b54629db6d4fdbd9:91f10ac15b91a1e7fd5e22690f405086
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ea3b3776d048943f7505cb4_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023990X0-portrait.jpg",True Justice: Bryan Stevenson'S Fight For Equality 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e9ba8a4c1c955cf2baa848e5d021f63c:50b91a888595820fcac20044a2bc1947
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f4f68c46d048943f760ad1a_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038087X0-portrait.jpg",The Lord Of The Rings: The Fellowship Of The Ring: Extended Edition 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=efff8affd30a942825a51d7a2e62c0db:c8fed1ea7320b8160386d9a0f8948d94
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342d5ffd940521074b74b4d_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022751X0-portrait.jpg",Ice On Fire 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=26b9b6164b6c5707adf2bed16c0d29d9:6ce3b9bebda7e82a738d6b449adb73ec
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e552ecbea8a6a4eef6724_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023005X0-portrait.jpg",Deadwood: The Movie 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d727668c089f53d48a2b6eace9561a37:e2fd06bd8e6dae5785ad244a8ffe27ff
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d88a265717da66b07320304_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023873X0-portrait.jpg",Running With Beto 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=157b4cb1333a551da6e475a7701e4dc6:1e42dd78fb233c02385f2a60d49274e2
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f22aebf6d048943f75c7261_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+
+
+
+--------------pembatas----------
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jason Statham" tvg-logo="http://pictures.my.id/images/transporter.png", The Transporter 1 (2002) SUB INDO
 http://abf.filmbluray.id/2vaa875
