@@ -239,6 +239,12 @@ https://archive.org/download/MurotalMR/113.mp3
 #EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",114. An-Naas (Manusia)
 https://archive.org/download/MurotalMR/114.mp3
 
+"""""""""""""LOKAL ID Auto""""""""""
+#EXTINF:tvg-logo="https://hometv.pw/logo/lokal2/trans7.png" group-title="LOKAL ID Auto",TRANS 7 Auto
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://melon-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 
 ############# MOTO GP #########
