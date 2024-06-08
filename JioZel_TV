@@ -1,30 +1,10 @@
-#EXTM3U billed-msg="PLAYLIST INI GRATIS, Refresh secara berkala."
+#EXTM3U billed-msg="PLAYLIST INI PEREMIUM, Refresh secara berkala."
 
-#EXTINF:-1 tvg-logo="https://www.englishcafe.co.id/wp-content/uploads/2013/05/GratisFreigestellt.png" group-title="INFO❕" , INFO
+#EXTINF:-1 tvg-logo="https://www.englishcafe.co.id/wp-content/uploads/2013/05/GratisFreigestellt.png" group-title="INFO❕" ,!!!INFO PENTING!!!
 https://www.dropbox.com/scl/fi/ctu8zaqyalr1yai61v2k3/Picsart_24-05-29_23-15-24-048.mp4?rlkey=fidswkv15faj9t7p41zv1nwks&dl=1
 
 #EXTINF:-1 group-title="INFO❕" tvg-logo="https://www.englishcafe.co.id/wp-content/uploads/2013/05/GratisFreigestellt.png", SILAHKAN DI PLAY
 https://www.dropbox.com/scl/fi/dhjsho9nhluguextk3y6h/Videoleap_2024_05_31_11_25_56_811.mp4?rlkey=o524u3y8itb4h0dqvbh8v1lm0&dl=1
-
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE NOW", LIVE 1
-https://raw.githubusercontent.com/Arrasyid22/testchannel/comoters/test1.m3u8
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE NOW", LIVE 2
-https://raw.githubusercontent.com/Arrasyid22/testchannel/comoters/test2.m3u8
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE NOW", LIVE 3
-https://raw.githubusercontent.com/Arrasyid22/testchannel/comoters/test3.m3u8
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE NOW", LIVE 4
-https://raw.githubusercontent.com/Arrasyid22/testchannel/comoters/test4.m3u8
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE NOW", LIVE 5
-https://raw.githubusercontent.com/Arrasyid22/testchannel/comoters/test5.m3u8
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE NOW", LIVE 6
-https://raw.githubusercontent.com/Arrasyid22/testchannel/comoters/test6.m3u8
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE NOW", LIVE 7
-https://raw.githubusercontent.com/Arrasyid22/testchannel/comoters/test7.m3u8
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE NOW", LIVE 8
-https://raw.githubusercontent.com/Arrasyid22/testchannel/comoters/test8.m3u8
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE NOW", LIVE 9
-https://raw.githubusercontent.com/Arrasyid22/testchannel/comoters/test9.m3u8
-
 
 
 <==================== Murotall ================================>
@@ -2626,12 +2606,6 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-026/stream.mpd
 
 
 ```````` F1 ````````
-#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/gl9uoz1660314819.png" group-title="DAZN F1" , DAZN F1 🇪🇸
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-016/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN F1",DAZN FORMULA 1 FHD
 http://295546051112165418.ofk0601.xyz:80/play/3FQLU9E74S/MyxddsYEnF6/165418.ts
