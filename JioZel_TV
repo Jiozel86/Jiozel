@@ -2065,7 +2065,7 @@ https://testfunctionlive.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-A
 https://testfunctionlive.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kpW60HGA7NI/maxresdefault.jpg" group-title="MOVIES",BOO
-http://link.zozotv.xyz:8080/zozo/1234/1482
+https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/2407/default.mpd
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="MOVIES",ETV BIOSKOP 1
