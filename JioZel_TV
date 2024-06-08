@@ -381,10 +381,9 @@ https://melon-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #EXTINF:tvg-logo="https://hometv.pw/logo/lokal2/daaitv.png" group-title="LOKAL ID Auto",DAAI TV Auto
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=18c43281c6334b3eabbad9cf8cbdcc1c:cf9813740819d0163f64193243090a66
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
-
 
 
 """""""""""""""""""""TV NASIONAL 1"""""""""""""""""""""
