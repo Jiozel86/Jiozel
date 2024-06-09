@@ -1897,6 +1897,69 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/h
 #KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 
+""""""""""""""""""""KIDS ENG"""""""""""""""""
+
+#EXTINF:tvg-logo="https://hometv.pw/logo/kids2/nickelodeon.png"group-title="KIDS ENG",NICKELODEON Auto Reso
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://melon-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
+#EXTINF:group-title="KIDSENG"tvg-logo="https://hometv.pw/logo/kids2/cinemachi_kids.png",Cinemachi Kids HD Auto Reso
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
+
+#EXTINF:tvg-logo="https://hometv.pw/logo/kids2/zoomoo.png" group-title="KIDS ENG",ZOO MOO Auto Reso
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://melon-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
+
+#EXTINF:tvg-logo="https://hometv.pw/logo/kids2/animax.png" group-title="KIDS ENG",ANIMAX Auto Reso
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://melon-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+#EXTINF:-1tvg-logo="https://hometv.pw/logo/kids2/babytv.png" group-title="KIDS ENG",BABY TV Auto Reso
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://melon-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+
+
+#EXTINF:tvg-logo="https://hometv.pw/logo/kids2/spacetoon.png"group-title="KIDS ENG",SPACETOON Auto Reso
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+
+#EXTINF:tvg-logo="https://hometv.pw/logo/kids2/camp_spoopy.png" group-title="KIDS ENG",CAMP SPOOPY Auto Reso
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=264
+
+#EXTINF:tvg-logo="https://hometv.pw/logo/kids2/smurf2.png" group-title="KIDS ENG",SMURFS Auto Reso
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4065
+
+#EXTINF:-1tvg-logo="https://hometv.pw/logo/kids2/toon_goggles.png" group-title="KIDS ENG", TOON GOOGLES Auto Reso
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=34
+
+#EXTINF:tvg-logo="https://hometv.pw/logo/kids2/kidsflix.png" group-title="KIDS ENG",KIDS FLIX Auto Reso
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+
+#EXTINF:tvg-logo="https://hometv.pw/logo/kids2/squad.png" group-title="KIDS ENG",SQUAD Auto Reso
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
+
+#EXTINF:tvg-logo="https://hometv.pw/logo/kids2/sparkle_power.png"group-title="KIDS ENG",SPARKLE POWER Auto Reso
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=35
+
+#EXTINF:tvg-logo="https://hometv.pw/logo/kids2/on_nom.png" group-title="KIDS ENG",ON NOM Auto Reso
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=34
+
+#EXTINF:tvg-logo="https://hometv.pw/logo/kids2/gross_out.png" group-title="KIDS ENG",GROSS OUT Auto Reso
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=41
+
+#EXTINF:tvg-logo="https://hometv.pw/logo/kids2/toon_googles_jr.png" group-title="KIDS ENG",TOON GOOGLES JR Auto Reso
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=33
+
+
 ```````` MOVIES ````````
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://hometv.pw/logo/movies/hbo.png" group-title="MOVIES", HBO
@@ -2365,6 +2428,190 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://yt3.googleusercontent.com/sNMwk_y5__nbN_P-rKSF3AXNVmm_KVje_2gq7ay7w80FEiMoRcap_GdCcFCR4OxsA1QXUBNt4Q=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC", Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+
+"""""""""""""""""""" RADIO """"""""""""""""
+#EXTINF:-1 tvg-id="" tvg-name="TEMBANG KENANGAN" tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Tembang Kenangan
+https://stream-157.zeno.fm/qwyt80mkzhhvv?zs=KBh4jAinSFqHvuxn9YvF0g&zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxd3l0ODBta3poaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsImp0aSI6IktCaDRqQWluU0ZxSHZ1eG45WXZGMGciLCJpYXQiOjE3MTI2NzcxNTksImV4cCI6MTcxMjY3NzIxOX0.ARdix8fcxSw5HFW6tuwzy1cAev40kHJ3VnkxicR0t_8&zttl=5
+#EXTINF:-1 tvg-id="" tvg-name="DANGDUT ONLINE" tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Dangdut Online
+https://s1.gntr.net/listen/radio_gentara/gentara64
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Mustang FM
+http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Hot FM
+http://103.246.184.62:1935/noice_hotfm/hotfm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Kis FM
+http://103.246.184.62:1935/noice_kisfm/kisfm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Gen FM
+http://103.246.184.62:1935/noice_genfm/genfm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Most Radio
+http://103.246.184.62:1935/noice_mostfm/mostfm/playlist.m3u8
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",JAK FM
+http://103.246.184.62:1935/noice_jakfm/jakfm/playlist.m3u8
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Gen FM SBY
+http://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/chunklist_w742138711.m3u8
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",MOST RADIO
+http://103.246.184.62:1935/noice_mostfm/mostfm/playlist.m3u8
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",MUSTANG
+http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Kis FM 
+http://103.246.184.62:1935/noice_kisfm/kisfm/playlist.m3u8
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Swara FM Semarang
+https://server.radioimeldafm.co.id/radio/8010/swarasemarang
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Radio Muara
+http://45.64.97.82:8778/stream
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",RadioQu Bogor
+https://ssg.streamingmurah.com:8398/stream
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Ges Radio
+http://i18.klikhost.net/9184/;
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Hard Rock FM  Jakarta
+http://stream.RADIOjar.com/7csmg90fuqruv
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Global Radio Jakarta OK
+http://202.147.199.98:80/;
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",I-Radio FM Jakarta
+http://stream.RADIOjar.com/4ywdgup3bnzuv
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Cosmopolitan FM
+http://stream.RADIOjar.com/u7d8heq3bnzuv
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Mersi FM OK
+http://mersifm939.myradio.web.id:8888/mersifm939
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Smart FM Jakarta
+https://streamingv2.shoutcast.com/smart-jakarta
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",RDI Jakarta OK
+http://202.147.199.99:8000/;
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Motion Radio
+https://streamingv2.shoutcast.com/motion-jakarta
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Smooth
+https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",ZFM
+https://svara-stream.radioddns.net:8443/jakarta_z999fm_aac
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Rodja Bogor
+https://radioislamindonesia.com/rodja.mp3?_=2
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Heartline OK
+http://202.129.186.43:7010/;?sid=1
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",DFM
+https://i.klikhost.com/9000/stream
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Brava Radio
+http://stream.RADIOjar.com/5k7t0rq3bnzuv
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",MNC Trijaya Jakarta OK
+http://202.147.199.101:8000/;
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",V Radio OK
+http://202.147.199.100:8000/;
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Radio Idola Semarang
+http://server.radioidola.com:8888/idolamp3
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",POP FM Semarang
+http://i.klikhost.com:9612/stream
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Smart FM Surabaya
+https://cast3.asurahosting.com/proxy/radios23/stream
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Smart FM Medan
+https://cast2.my-control-panel.com/proxy/radios11/stream
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Smart FM Balikpapan
+https://cast3.asurahosting.com/proxy/radios32/stream
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Smart FM Banjarmasin
+https://cast2.my-control-panel.com/proxy/radios15/stream
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Smart FM Palembang
+https://cast3.asurahosting.com/proxy/radios22/stream
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Smart FM Makassar
+https://cast2.my-control-panel.com/proxy/radios13/stream
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Smart FM Manado
+https://cast2.my-control-panel.com/proxy/radios14/stream
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Smart FM Pekanbaru
+https://cast3.asurahosting.com/proxy/radios27/stream
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Classy FM Padang
+http://stream.classyfm.co.id:1034/stream/1/
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Jiz FM Yogyakarta
+http://jgj.jogjastreamers.com:8000/jisstereo?s=24485
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Sushi FM Padang
+https://stream2.jejestreaming.com:9200/stream
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Elmitra FM Sukabumi
+http://streaming.hostgila.com:6777/;stream.nsv
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Imelda FM
+https://server.radioimeldafm.co.id:8030/imeldafm
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Gajahmada FM
+https://server.radioimeldafm.co.id:8040/gajahmadafm
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Sonora FM Bandung
+https://cast1.my-control-panel.com/proxy/radios17/stream
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Swaragama FM
+http://jgj.jogjastreamers.com:8000/swaragama456789?s=22282
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Radio Cakra Bandung
+https://stream-057.zeno.fm/yoengdcdzyauv?zs=ER-A13H-TuuY-DZ4mBThEw
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",B Radio Bandung
+https://n08.rcs.revma.com/9s8q27svceuvv?rj-ttl=5&rj-tok=AAABiB2lxpAANsjsXvF8AVGC_A
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Suara Surabaya FM
+https://ssfm.siar.us/ssfm/live/playlist.m3u8
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",RRI PRO 1 Banda Aceh FM
+https://stream-node2.rri.co.id/streaming/14/9214/rribandaacehpro1.mp3
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Cosmopolitan FM
+http://n02.radiojar.com/u7d8heq3bnzuv
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",V RADIO
+http://202.147.199.100:8000/;stream.nsv
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Brava FM
+http://n07.radiojar.com/5k7t0rq3bnzuv.mp3?1613997585=&rj-tok=AAABd8nJ38EAguSD-Yi56JrhPA&rj-ttl=5
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Hard Rock FM
+http://n09.radiojar.com/7csmg90fuqruv.mp3?1619243440=&rj-tok=AAABeQJ3Ru4AgeQosVWIZQa5rg&rj-ttl=
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Hard Rock FM Surabaya
+http://stream.radiojar.com/yg8ne2v80k8uv
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Hard Rock FM Bali
+http://stream.radiojar.com/9k28wsbu5k8uv
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Heartline Bali
+http://202.129.186.43:7028/stream
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Heartline Jakarta
+https://svara-stream.radioddns.net:8443/karawaci_heartline_stereo?ver=635710
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Motion Radio Jakarta
+https://streamingv2.shoutcast.com/motion-jakarta
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Female FM
+http://onlineradiobox.com/json/id/female/play
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",EBS FM
+http://streaming.suzanafm.com:8100/;stream.nsv
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Elgangga FM
+http://onlineradiobox.com/json/id/sushi/play
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",SLOW FM
+http://onlineradiobox.com/json/id/slow/play
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",KIS ROCK
+http://onlineradiobox.com/json/id/kisrock/play
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Trax FM Palembang
+http://stream.radiojar.com/qv4muvhswk8uv
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Female Radio
+https://stream.cloudmu.id/listen/female/stream?icy=http
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Hard Rock Jakarta
+https://stream.radiojar.com/7csmg90fuqruv.mp3?1678353316
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Motion Jakarta
+https://cast1.my-control-panel.com/proxy/radioso2/stream
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",KKFI FM
+https://nustream.pacificaservice.org:9000/kkfi_128
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Mentari FM Solo
+https://i.klikhost.com/9122/;stream.mp3
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Indika FM
+https://s2.radio.co/sf58a82d7d/listen
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Hitz FM
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Hitz.m3u8
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Hot FM
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/HotFM.m3u8
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Prambors
+https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3?dist=onlineradiobox
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Ardan FM
+http://listento.ardanradio.com:1059/;
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Phoenix Radio Bali
+https://live.phoenixradiobali.com:8250/phoenixradio
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",MGTRADIO
+http://stream.radbdg.net:8000/mgtradio.mp3
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Elshinta FM
+https://stream-ssl.arenastreaming.com:8000/jakarta
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",I Radio
+http://stream.radiojar.com/4ywdgup3bnzuv
+#EXTINF:0 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Trax FM
+https://n11.radiojar.com:443/rrqf78p3bnzuv.mp3?1613798267=&rj-tok=AAABd73ok20AEvV31cQDN-_2tg&rj-ttl=5
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",Radio Rodja
+https://radioislamindonesia.com/rodja.mp3
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",SOLOPOS FM
+https://radio.solopos.com:8002/stream
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",EBS - Surabaya
+http://streaming.radiopanorama.net:8100/
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",TRAX DKI
+http://stream.radiojar.com/rrqf78p3bnzuv
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO",HITZ BANDUNG
+http://hits.unikom.ac.id:9996/
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/music2/radio.png" group-title="RADIO", I-RADIO
+http://stream.radiojar.com/4ywdgup3bnzuv
+
 
 
 
