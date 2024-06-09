@@ -1905,7 +1905,7 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/d
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
-#EXTINF:group-title="KIDSENG"tvg-logo="https://hometv.pw/logo/kids2/cinemachi_kids.png",Cinemachi Kids HD Auto Reso
+#EXTINF:group-title="KIDS ENG"tvg-logo="https://hometv.pw/logo/kids2/cinemachi_kids.png",Cinemachi Kids HD Auto Reso
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
