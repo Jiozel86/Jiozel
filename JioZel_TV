@@ -2862,6 +2862,37 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_1500000=
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvripapua.png" group-title="TVRI Group",TVRI Papua Barat
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a_96000_eng=20003.m3u8
 
+<========================= China ====================================>
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Jiangsu_Broadcasting_Corporation.svg/1200px-Jiangsu_Broadcasting_Corporation.svg.png" group-title="China",JiangsuTV
+https://testfunctionlive.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://w7.pngwing.com/pngs/184/708/png-transparent-hunan-television-television-channel-mango-tv-stale-television-angle-text-thumbnail.png" group-title="China",HunanTV
+https://testfunctionlive.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="Dragon TV" tvg-url="" tvg-logo="https://seeklogo.com/images/D/dragon-television-logo-6942D37A27-seeklogo.com.png" group-title="China",Shanghai Dragon TV
+https://testfunctionlive.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/05/Xing-Kong.jpg" group-title="China",XingkongTV
+https://testfunctionlive.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://jadibatek.com/wp-content/uploads/2020/04/anhui-tv-logo.jpg" group-title="China",Anhui TV
+https://testfunctionlive.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 
 
@@ -2943,38 +2974,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg" group-title="SPORTS  🇮🇩",TVRI Sport HD
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 
-
-<========================= China ====================================>
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Jiangsu_Broadcasting_Corporation.svg/1200px-Jiangsu_Broadcasting_Corporation.svg.png" group-title="China",JiangsuTV
-https://testfunctionlive.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://w7.pngwing.com/pngs/184/708/png-transparent-hunan-television-television-channel-mango-tv-stale-television-angle-text-thumbnail.png" group-title="China",HunanTV
-https://testfunctionlive.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="Dragon TV" tvg-url="" tvg-logo="https://seeklogo.com/images/D/dragon-television-logo-6942D37A27-seeklogo.com.png" group-title="China",Shanghai Dragon TV
-https://testfunctionlive.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/05/Xing-Kong.jpg" group-title="China",XingkongTV
-https://testfunctionlive.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://jadibatek.com/wp-content/uploads/2020/04/anhui-tv-logo.jpg" group-title="China",Anhui TV
-https://testfunctionlive.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 
 
