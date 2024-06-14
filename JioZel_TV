@@ -389,7 +389,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada
 #EXTINF:tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mhUyV8iNg5d_3sAtlPxTioVDSu2YBHr0CnFZdgqd6sJUk=s900-c-k-c0x00ffffff-no-rj" group-title="LOKAL ID Auto",TVRI
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://yt3.googleusercontent.com/VOvxCL8bO_naX0wdWwLOyqFtvg0tmpa2z5WbTzy0Ov871n_cG7CohxaF0NDr0uiPC9uFmZTsUJ4=s900-c-k-c0x00ffffff-no-rj" group-title="LOKAL ID Auto, MENTARI TV
+#EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://yt3.googleusercontent.com/VOvxCL8bO_naX0wdWwLOyqFtvg0tmpa2z5WbTzy0Ov871n_cG7CohxaF0NDr0uiPC9uFmZTsUJ4=s900-c-k-c0x00ffffff-no-rj" group-title="LOKAL ID Auto", MENTARI TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
