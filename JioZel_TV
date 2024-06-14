@@ -365,16 +365,13 @@ https://melon-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-#EXTINF:-1tvg-logo="https://hometv.pw/logo/lokal2/vtv.png" group-title="LOKAL ID Auto",VIVA TV
-#http://103.150.117.215:25461/215@v2old/M0js5Y5vVA/11833
-
 #EXTINF:tvg-logo="https://yt3.googleusercontent.com/6hWF5_WQFt1Eb0VSzWaWk8xS2nTEx9wW7q6bBe0DDoQ9PqNW3y7cCj8muU03IC-98asMHNpD=s900-c-k-c0x00ffffff-no-rj" group-title="LOKAL ID Auto",BERITA SATU Auto
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
-#EXTINF:tvg-logo="https://hometv.pw/logo/lokal2/sindo_news.png"group-title="LOKAL ID Auto",SINDO NEWS Auto
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/SindoNewsTV_2023.png"group-title="LOKAL ID Auto",SINDO NEWS Auto
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
