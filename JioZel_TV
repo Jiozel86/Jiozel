@@ -2127,23 +2127,22 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=33
 
 ```````` MOVIES ````````
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://hometv.pw/logo/movies/hbo.png" group-title="MOVIES", HBO
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://cdnjkt4.transvision.co.id:1001/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="MOVIES", HBO
 http://myteve.online:8080/30fe809e/ec00cbf3/197972
 
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://hometv.pw/logo/movies/hbo_family.png" group-title="MOVIES", HBO Family
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://cdnjkt4.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="MOVIES", HBO Family
 http://myteve.online:8080/30fe809e/ec00cbf3/197055
 
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://hometv.pw/logo/movies2/hbo_hits.png" group-title="MOVIES", HBO Hits
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://cdnjkt4.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="MOVIES", HBO Hits
 http://myteve.online:8080/30fe809e/ec00cbf3/196480
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://hometv.pw/logo/movies/hbo_sign.png" group-title="MOVIES", HBO Signature
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://cdnjkt4.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="MOVIES", HBO Signature
 http://myteve.online:8080/30fe809e/ec00cbf3/221948 
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/cinemax.png" group-title="MOVIES", Cinemax
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="MOVIES", Cinemax
 http://myteve.online:8080/2c258a9b/c73f1cfbce/197964
-
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -2154,13 +2153,13 @@ http://myteve.online:8080/2c258a9b/c73f1cfbce/197964
 #EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIES",Cinemax
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-#EXTINF:-1 tvg-id="Galaxy - [Channel 13].id" tvg-name="Galaxy" tvg-logo="https://hometv.pw/logo/movies/galaxy.png" group-title="MOVIES", GALAXY 
+#EXTINF:-1 tvg-id="Galaxy - [Channel 13].id" tvg-name="Galaxy" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png" group-title="MOVIES", GALAXY 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
-#EXTINF:-1 tvg-id="Galaxy Premium - [Channel 12].id" tvg-name="Galaxy Premium" tvg-logo="https://hometv.pw/logo/movies/galaxy_premium.png" group-title="MOVIES", GALAXY PREMIUM 
+#EXTINF:-1 tvg-id="Galaxy Premium - [Channel 12].id" tvg-name="Galaxy Premium" tvg-logo="https://i.ytimg.com/vi/53YZOZFbszE/maxresdefault.jpg" group-title="MOVIES", GALAXY PREMIUM 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
