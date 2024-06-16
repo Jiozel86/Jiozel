@@ -1,7 +1,16 @@
-404: Not Found
 
-#EXTM3U billed-msg="PLAYLIST INI PEREMIUM, Refresh secara berkala."
+<!DOCTYPE html><head></head><body><script type="text/javascript"> let WapkaSiteAPI = {"apikey": "74842:lkues2m13pg267uh20m0m3oj4t"} </script><script async type="text/javascript" src="//adstook.com/wapka_lib.js"></script><!doctype html><!doctype html>
 
+                 <script language="javascript">
+  window.location = "https://linktr.ee/gamerepublictv/";
+</script>
+
+
+<script>
+
+#EXTM3U url-tvg="https://rebrand.ly/epgrepublictv1 , https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"  refresh="3600"
+
+==============INFORMASI=========
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/9q2wk84w54wdn82gk7g3w/jiozel.png?rlkey=vllxmo7h6a0b5bddpip1vreg4&dl=0" group-title="INFO❕" ,!!!INFO PENTING!!!
 https://www.dropbox.com/scl/fi/ctu8zaqyalr1yai61v2k3/Picsart_24-05-29_23-15-24-048.mp4?rlkey=fidswkv15faj9t7p41zv1nwks&dl=1
@@ -3555,3 +3564,6 @@ http://abcnew.site:8880/12mmk180105/81462658/1698
 
 #EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="GOLF | FIGHT", UNIFI SPORTS 🇲🇾
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+
+
+</script><script async type="text/javascript" src="//adstook.com/wapka_lib.js"></script>   </body>   </html>
