@@ -611,8 +611,6 @@ http://63b2dc7196c38.streamlock.net:1935/ch18/myStream/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://hometv.biz.id/logo/tv_daerah2/jitv.png" group-title="TV DAERAH",JITV
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://hometv.biz.id/logo/tv_daerah2/tatv.png" group-title="TV DAERAH",TATV
-https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVKU" tvg-logo="https://hometv.biz.id/logo/tv_daerah2/tvku.png" group-title="TV DAERAH",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 
