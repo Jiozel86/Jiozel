@@ -2232,7 +2232,7 @@ https://melon-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="MOVIES",Sony Pix
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pix" tvg-logo="http://x1.cdn.broiptv.com/img/sonypix.png" group-title="MOVIES", Sony Pix
 https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/sony_pix_norvegicus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rock Action - [Channel 248].id" tvg-name="ROCK ACTION" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2022/10/10105014/Rock-Action_image-thumb-1024x576.jpg" group-title="MOVIES", ROCK ACTION 
