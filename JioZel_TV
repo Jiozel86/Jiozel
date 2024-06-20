@@ -2283,7 +2283,7 @@ http://iptvtree.net:8080/F14995/a84c0963/298529
 
 
 '''''''HBO Group''''''''
-EXTINF:-1 group-title="HBO Group" tvg-id="hboasia.sg" tvg-logo="https://dl.dropbox.com/scl/fi/11cogq3f6ewil4xavwnh3/hbo.png?rlkey=2qd8p4fzhaxy4mnk9vkn5v41c&dl=0",HBO (Auto)
+#EXTINF:-1 group-title="HBO Group" tvg-id="hboasia.sg" tvg-logo="https://dl.dropbox.com/scl/fi/11cogq3f6ewil4xavwnh3/hbo.png?rlkey=2qd8p4fzhaxy4mnk9vkn5v41c&dl=0",HBO (Auto)
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTINF:-1 group-title="HBO Group" tvg-id="hbohitsasia.sg" tvg-logo="https://dl.dropbox.com/scl/fi/n7pewdemieoz3zbs39tbx/hbohits.png?rlkey=e748k2slpje7h5xy2q9pos5a3&dl=0", HBO Hits (Auto)
@@ -2398,7 +2398,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO Group",Cinemax
+#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO Group",Cinemax (Maxstream)
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://x1.cdn.broiptv.com/img/hbo.png" group-title="HBO Group", HBO HD
