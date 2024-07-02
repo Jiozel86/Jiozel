@@ -297,6 +297,19 @@ http://tv14s.xyz:8080/live/753468/894568/99568.ts
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://w7.pngwing.com/pngs/522/791/png-transparent-uefa-euro-2024.png" group-title="👑EURO 2024👑",TSN 1
 http://cord-cutter.net:8080/live/j3McKd/673709/47440.ts
 
+######################
+##### COPA AMERIKA ###
+
+
+
+#EXTINF:-1 group-title="EVENT | COPA AMERIKA" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR no acak 1
+http://xtv.ooo:8080/MansoorWapda/258741/350972
+#EXTINF:-1 group-title="EVENT | COPA AMERIKA" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR no acak 2
+http://xtv.ooo:8080/owais1/12345/350972
+#EXTINF:-1 group-title="EVENT | COPA AMERIKA" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR no acak 3
+http://iptvtree.net:8080/e891d265/89d742c3/162138
+
+
 
 """""""""""""LOKAL ID Auto""""""""""
 #EXTINF:tvg-logo="https://yt3.googleusercontent.com/9P6JZKyUn1UwfS6ma-0tHH6YHdLbpH5jFUTUPONgWYuHxWLFOkylLP-9xWVZK0N2bp70HYY9Qw=s900-c-k-c0x00ffffff-no-rj" group-title="LOKAL ID Auto",TRANS 7 Auto
