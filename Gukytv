@@ -811,36 +811,6 @@ https://webhdrus.onlinehdhls.ru/lb/premium402/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium403/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/stv1.png" group-title="SPORTS", SPORT TV 1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webhdrus.onlinehdhls.ru/lb/premium49/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/stv2.png" group-title="SPORTS", SPORT TV 2
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webhdrus.onlinehdhls.ru/lb/premium74/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/stv3.png" group-title="SPORTS", SPORT TV 3
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webhdrus.onlinehdhls.ru/lb/premium454/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/stv4.png" group-title="SPORTS", SPORT TV 4
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webhdrus.onlinehdhls.ru/lb/premium289/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/stv5.png" group-title="SPORTS" , SPORT TV 5
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webhdrus.onlinehdhls.ru/lb/premium290/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/stv6.png" group-title="SPORTS" , SPORT TV 6
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webhdrus.onlinehdhls.ru/lb/premium291/index.m3u8
-
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="http://guki.my.id/logo/sports/novprime.png" , NOVA SPORTS PRIME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -891,59 +861,7 @@ https://webhdrus.onlinehdhls.ru/lb/premium635/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium636/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="http://guki.my.id/logo/sports/usanetwork.png" group-title="SPORTS",USA Network
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webhdrus.onlinehdhls.ru/lb/premium343/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="http://guki.my.id/logo/sports/tudn.png" group-title="SPORTS",TUDN USA
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webhdrus.onlinehdhls.ru/lb/premium66/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="http://guki.my.id/logo/sports/telemundo.png" group-title="SPORTS",Telemundo
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webhdrus.onlinehdhls.ru/lb/premium131/index.m3u8
-
-
-####################################################################### COSMOTE SPORT #################################################################
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/cos1.jpg" group-title="SPORTS", COSMOTE SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium622/index.m3u8
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/cos2.jpg" group-title="SPORTS", COSMOTE SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium623/index.m3u8
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/cos3.jpg" group-title="SPORTS", COSMOTE SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium624/index.m3u8
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/cos4.jpg" group-title="SPORTS", COSMOTE SPORT 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium625/index.m3u8
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/cos5.jpg" group-title="SPORTS", COSMOTE SPORT 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium626/index.m3u8
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/cos6.jpg" group-title="SPORTS", COSMOTE SPORT 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium627/index.m3u8
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/cos7.jpg" group-title="SPORTS", COSMOTE SPORT 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium628/index.m3u8
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/cos8.jpg" group-title="SPORTS", COSMOTE SPORT 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium629/index.m3u8
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/cos9.jpg" group-title="SPORTS", COSMOTE SPORT 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium630/index.m3u8
 
 ====================================================================================================================================================================
 ########################################################################### RELIGI ##############################################################################
