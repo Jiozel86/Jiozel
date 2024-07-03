@@ -1,64 +1,235 @@
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/live/euro2024.png" group-title="EURO 2024", LIVE 1
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
- 
-#EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/live/euro2024.png" group-title="EURO 2024", LIVE 2
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/live/euro2024.png" group-title="EURO 2024", LIVE 3
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8cef674613af4db5a0e6c64f38149878:65231111f4044f8a067ad0de10b59d49
-https://cdnlb.tvplayhome.lt/live/eds/ETV_HD_HVC/GO3_LIVE_DASH_AVC/ETV_HD_HVC.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/live/euro2024.png" group-title="EURO 2024", LIVE 4
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=95abe856f5c148b2974f5fb28a74b2e2:be434af7b0e977df382c97a375c47291
-https://cdnlb.tvplayhome.lt/live/eds/TV3_EE_HD_HVC/GO3_LIVE_DASH_AVC/TV3_EE_HD_HVC.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/live/euro2024.png" group-title="EURO 2024", LIVE 5
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/live/euro2024.png" group-title="EURO 2024", LIVE 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d9937d586414096948337ac314d79c1:22ca2e250b729982c97209e0ff3f7e9b
-https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/live/euro2024.png" group-title="EURO 2024", LIVE 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6401e1fead9d4f43910aaad360f46dd0:598f5e4f10d4e040d25579478cadc4ee
-https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09091/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/live/euro2024.png" group-title="EURO 2024", LIVE 8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0dbd58616d7355b7a1a7c89df6a60199":"b755de82e54d2aa45ce8e39b80f45ed5","66f03e62d21d5a6397841fc2de1391eb":"75502c6cf014a32a18c9db45ca13a6c3","3ba59a2a76105666b260332e35e483f0":"6dca3af3176e313b6798f81120edd77d"}
-https://pptv-7jdibe.cdn.byteark.com/live/drmwv/index.mpd
+<==================== Murotall ================================>
 
 
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",001. Alfatihah (Pembukaan)
+https://archive.org/download/MurotalMR/001.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",002. Al-Baqarah (Lembu Betina)
+https://archive.org/download/MurotalMR/002.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",003. Ali 'Imran (Keluarga Imran)
+https://archive.org/download/MurotalMR/003.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",004. An-Nisaa' (Wanita)
+https://archive.org/download/MurotalMR/004.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",005. Al-An'aam (Binatang Ternakan)
+https://archive.org/download/MurotalMR/006.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",006. Al-A'raaf (Tempat Tertinggi)
+https://archive.org/download/MurotalMR/007.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",007. Al-Anfaal (Rampasan Perang)
+https://archive.org/download/MurotalMR/008.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",008. At-Taubah (Pengampunan)
+https://archive.org/download/MurotalMR/009.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",009. Yunus (Nabi Yunus a.s.)
+https://archive.org/download/MurotalMR/010.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",010. Hud (Nabi Hud a.s.)
+https://archive.org/download/MurotalMR/011.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",011. Yusuf (Nabi Yusuf a.s.)
+https://archive.org/download/MurotalMR/012.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",012. Ar-Ra'd (Guruh)
+https://archive.org/download/MurotalMR/013.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",013. Al-Maa'idah (Hidangan)
+https://archive.org/download/MurotalMR/005.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",014. Ibrahim (Nabi Ibrahim a.s.)
+https://archive.org/download/MurotalMR/014.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",,015. Al-Hijr (Kawasan Berbatu)
+https://archive.org/download/MurotalMR/015.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",016. An-Nahl (Lebah)
+https://archive.org/download/MurotalMR/016.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",017. Al-Israa' (Perjalanan Malam)
+https://archive.org/download/MurotalMR/017.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",018. Al-Kahfi (Gua)
+https://archive.org/download/MurotalMR/018.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",019. Maryam (Siti Maryam)
+https://archive.org/download/MurotalMR/019.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",020. Taahaa
+https://archive.org/download/MurotalMR/020.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",021. Al-Anbiyaa' (Para Nabi)
+https://archive.org/download/MurotalMR/021.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",022. Al-Hajj (Haji)
+https://archive.org/download/MurotalMR/022.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",023. Al-Mu'minun (Golongan yang Beriman)
+https://archive.org/download/MurotalMR/023.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",024. An-Nuur (Cahaya)
+https://archive.org/download/MurotalMR/024.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",025. Al-Furqaan (Pembeda Hak & Bathil)
+https://archive.org/download/MurotalMR/025.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",026. Asy-Syu'araa (Para Penyair)
+https://archive.org/download/MurotalMR/026.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",027. An-Naml (Semut)
+https://archive.org/download/MurotalMR/027.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",028. Al-Qasas (Cerita-cerita)
+https://archive.org/download/MurotalMR/028.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",029. Al-'Ankabut (Labah-labah)
+https://archive.org/download/MurotalMR/029.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",030. Ar-Rum (Bangsa Roma)
+https://archive.org/download/MurotalMR/030.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",031. Luqman (Luqman)
+https://archive.org/download/MurotalMR/031.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",032. As-Sajdah (Sujud)
+https://archive.org/download/MurotalMR/032.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",033. Al-Ahzab (Golongan yang Bersekutu)
+https://archive.org/download/MurotalMR/033.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",034. Saba' (Kaum Saba')
+https://archive.org/download/MurotalMR/034.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",035. Faatir (Pencipta)
+https://archive.org/download/MurotalMR/035.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",036. Yaasin
+https://archive.org/download/MurotalMR/036.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",037. As-Saaffat (Yang Teratur Berbaris)
+https://archive.org/download/MurotalMR/037.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",038. Saad
+https://archive.org/download/MurotalMR/038.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",039. Az-Zumar (Rombongan)
+https://archive.org/download/MurotalMR/039.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",040. Al-Ghafir / Al-Mu'min (Orang yang Beriman)
+https://archive.org/download/MurotalMR/040.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",041. Fussilat (Dijelaskan)
+https://archive.org/download/MurotalMR/041.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",042. Asy-Syuraa (Permesyuaratan)
+https://archive.org/download/MurotalMR/042.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",043. Az-Zukhruf (Perhiasan Emas)
+https://archive.org/download/MurotalMR/043.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",044. Ad-Dukhaan (Kabut / Asap)
+https://archive.org/download/MurotalMR/044.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",045. Al-Jatsiyah (Yang Berlutut)
+https://archive.org/download/MurotalMR/045.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",046. Al-Ahqaaf (Bukit-bukit Pasir)
+https://archive.org/download/MurotalMR/046.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",047. Muhammad (Nabi Muhammad SAW)
+https://archive.org/download/MurotalMR/047.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",048. Al-Fath (Kemenangan)
+https://archive.org/download/MurotalMR/048.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",049. Al-Hujurat (Bilik-bilik)
+https://archive.org/download/MurotalMR/049.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",050. Qaaf
+https://archive.org/download/MurotalMR/050.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",051. Adz-Dzariyaat (Angin yang Menerbangkan)
+https://archive.org/download/MurotalMR/051.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",052. At-Tur (Bukit)
+https://archive.org/download/MurotalMR/052.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",053. An-Najm (Bintang)
+https://archive.org/download/MurotalMR/053.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",054. Al-Qamar (Bulan)
+https://archive.org/download/MurotalMR/054.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",055. Ar-Rahman (Yang Maha Pemurah)
+https://archive.org/download/MurotalMR/055.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",056. Al-Waqi'ah (Peristiwa yang Tidak Dapat Dielakkan)
+https://archive.org/download/MurotalMR/056.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",057. Al-Hadid (Besi)
+https://archive.org/download/MurotalMR/057.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",058. Al-Mujadilah (Perempuan yang Merayu)
+https://archive.org/download/MurotalMR/058.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",059. Al-Hasyr (Pengusiran)
+https://archive.org/download/MurotalMR/059.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",060. Al-Mumtahanah (Perempuan yang Diuji)
+https://archive.org/download/MurotalMR/060.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",061. As-Saf (Barisan)
+https://archive.org/download/MurotalMR/061.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",062. Al-Jumu'ah (Hari Jumaat)
+https://archive.org/download/MurotalMR/062.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",063. Al-Munafiquun (Golongan Munafik)
+https://archive.org/download/MurotalMR/063.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",064. At-Taghabun (Dinampakkan Kesalahan)
+https://archive.org/download/MurotalMR/064.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",065. At-Talaq (Cerai / Talak)
+https://archive.org/download/MurotalMR/065.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",066. At-Tahrim (Mengharamkan)
+https://archive.org/download/MurotalMR/066.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",067. Al-Mulk (Kerajaan)
+https://archive.org/download/MurotalMR/067.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",068. Al-Qalam (Pena / Kalam)
+https://archive.org/download/MurotalMR/068.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",069. Al-Haaqqah (Keadaan Sebenar / Hari Kiamat)
+https://archive.org/download/MurotalMR/069.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",070. Al-Ma'arij (Tempat-tempat Naik)
+https://archive.org/download/MurotalMR/070.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",071. Nuh (Nabi Nuh a.s.)
+https://archive.org/download/MurotalMR/071.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",072. A-Jin (Jin)
+https://archive.org/download/MurotalMR/072.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",073. Al-Muzammil (Yang Berselimut)
+https://archive.org/download/MurotalMR/073.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",074. Al-Muddathir (Yang Berselubung)
+https://archive.org/download/MurotalMR/074.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",075. Al-Qiyaamah (Hari Kebangkitan / Kiamat)
+https://archive.org/download/MurotalMR/075.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",076. Al-Insaan (Manusia)
+https://archive.org/download/MurotalMR/076.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",077. Al-Mursalat (Malaikat Yang Diutus)
+https://archive.org/download/MurotalMR/077.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",078. An-Naba' (Berita Besar)
+https://archive.org/download/MurotalMR/078.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",079. An-Naazi'aat (Malaikat Yang Mencabut)
+https://archive.org/download/MurotalMR/079.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",080. 'Abasa (Dia Bermasam Muka)
+https://archive.org/download/MurotalMR/080.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",081. At-Takwiir (Menggulung)
+https://archive.org/download/MurotalMR/081.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",082. Al-Infitar (Terpecah & Terbelah)
+https://archive.org/download/MurotalMR/082.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",083. Al-Mutaffifiin (Golongan yang Curang)
+https://archive.org/download/MurotalMR/083.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",084. Al-Insyiqaaq (Terbelah)
+https://archive.org/download/MurotalMR/084.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",085. Al-Buruj (Gugusan Bintang)
+https://archive.org/download/MurotalMR/085.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",086. At-Taariq (Pengunjung Malam)
+https://archive.org/download/MurotalMR/086.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",087. Al-A'laa (Yang Tertinggi)
+https://archive.org/download/MurotalMR/087.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",088. Al-Ghaasyiah (Peristiwa Menggelisahkan/Hari Pembalasan)
+https://archive.org/download/MurotalMR/088.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",089. Al-Fajr (Fajar / Sinar Mentari)
+https://archive.org/download/MurotalMR/089.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",090. Al-Balad (Negeri)
+https://archive.org/download/MurotalMR/090.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",091. Asy-Syams (Matahari)
+https://archive.org/download/MurotalMR/091.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",092. Al-Lail (Malam)
+https://archive.org/download/MurotalMR/092.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",093. Adh-Dhuha (Pagi yang Cemerlang / Matahari Meninggi)
+https://archive.org/download/MurotalMR/093.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",094. Al-Insyirah/An-Nasyrah (Melapangkan)
+https://archive.org/download/MurotalMR/094.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",095. At-Tin (Buah Tin / Buah Ara)
+https://archive.org/download/MurotalMR/095.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",096. Al-'Alaq (Segumpal Darah)
+https://archive.org/download/MurotalMR/096.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",097. Al-Qadr (Kemuliaan)
+https://archive.org/download/MurotalMR/097.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",098. Al-Baiyinah (Bukti yang Nyata)
+https://archive.org/download/MurotalMR/098.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",099. Al-Zalzalah (Kegoncangan)
+https://archive.org/download/MurotalMR/099.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",100. Al-'Aadiyaat (Yang Berlari Kencang)
+https://archive.org/download/MurotalMR/100.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",101. Al-Qari'ah (Hari Yang Hingar)
+https://archive.org/download/MurotalMR/101.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",102. At-Takathur (Bermegah-Megah)
+https://archive.org/download/MurotalMR/102.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",103. Al-'Asr (Masa)
+https://archive.org/download/MurotalMR/103.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",104. Al-Humazah (Pengumpat)
+https://archive.org/download/MurotalMR/104.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",105. Al-Fiil (Gajah)
+https://archive.org/download/MurotalMR/105.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",106. Quraisy (Kaum Quraisy)
+https://archive.org/download/MurotalMR/106.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",107. Al-Ma'un (Barangan Berguna)
+https://archive.org/download/MurotalMR/107.mp3
+#EXTINF:-1 group-title=" Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",108. Al-Kauthar (Sungai Di Syurga)
+https://archive.org/download/MurotalMR/108.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",109. Al-Kafirun (Golongan Kafir)
+https://archive.org/download/MurotalMR/109.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",110. An-Nasr (Pertolongan)
+https://archive.org/download/MurotalMR/110.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",111. Al-Masad / Al-Lahab (Nyalaan Api)
+https://archive.org/download/MurotalMR/111.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",112. Al-Ikhlas (Tulus Ikhlas / Memurnikan)
+https://archive.org/download/MurotalMR/112.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",113. Al-Falaq (Waktu Subuh / Dinihari)
+https://archive.org/download/MurotalMR/113.mp3
+#EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",114. An-Naas (Manusia)
+https://archive.org/download/MurotalMR/114.mp3
 
 =======================================================================================================================================================
 ########################################################################## NASIONAL ##################################################################
@@ -326,6 +497,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
+
+
+
 
 ============================================================================================================ CUBMU ============================================================================================================
 
